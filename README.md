@@ -1,7 +1,8 @@
 <!-- ✨ Animated Hero Section -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hey,+I'm+Chinmay+Vuppu!;CSE+Student+%7C+AI+%2B+Cybersecurity+Explorer;Welcome+to+my+Dev+Realm!+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hey%20I'm%20Chinmay%20Vuppu!;CSE%20Student%20%7C%20AI%20+%20Cybersecurity%20Explorer;Welcome%20to%20my%20Dev%20Realm!%20%F0%9F%9A%80" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="300" />
