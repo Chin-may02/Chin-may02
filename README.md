@@ -45,13 +45,16 @@
 
 ---
 
-### 🚀 Featured Project
+### 🚀 Featured Projects
 
 | 🌉 [StoryBridge](https://github.com/RhiyaBhat/StoryBridge) |
 |------------------------------------------------------------|
 | An intelligent **cross-medium recommender** system blending AI and storytelling. Get suggestions based on your favorite books or movies!<br>📌 *Powered by Python, Flask, ML, and TF-IDF* |
 
----
+| 🧠 [Minesweeper AI](https://github.com/Chin-may02/MINESWEEPERAI) |
+|---------------------------------------------------------------|
+| A Python-based AI that plays the classic Minesweeper game using logical inference and constraint satisfaction. Inspired by CS50 AI curriculum.<br>📌 *Built with Python, Logic, Inference Engines* |
+
 
 ### 📈 GitHub Activity
 
