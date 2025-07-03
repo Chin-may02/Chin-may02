@@ -55,6 +55,11 @@
 |---------------------------------------------------------------|
 | A Python-based AI that plays the classic Minesweeper game using logical inference and constraint satisfaction. Inspired by CS50 AI curriculum.<br>📌 *Built with Python, Logic, Inference Engines* |
 
+| 🎙️ [Python Voice Assistant](https://github.com/Chin-may02/Python-Voice-Assistant-Suryanshsk) |
+|------------------------------------------------------------------------------------------------|
+| A desktop voice assistant that can search the web, open apps, and talk back! Combines speech recognition, TTS, and command execution.<br>📌 *Python · SpeechRecognition · pyttsx3 · NLP* |
+
+
 
 ### 📈 GitHub Activity
 
