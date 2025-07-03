@@ -1,72 +1,80 @@
-<!-- Animated Typing Header -->
+<!-- ✨ Animated Hero Section -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Hey+There+👋+I'm+Chinmay+Vuppu!;CS+Undergrad+%7C+AI+Explorer+%7C+Tech+Tinkerer;Welcome+to+my+GitHub+Universe!+" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hey,+I'm+Chinmay+Vuppu!;CSE+Student+%7C+AI+%2B+Cybersecurity+Explorer;Welcome+to+my+Dev+Realm!+🚀" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" />
-</p>
-
-<h2 align="center">🚀 Turning Coffee & Code into Magic</h2>
-
----
-
-### 🧠 Who Am I?
-
-> “Engineer by choice, AI explorer by passion, and a lifelong learner on a mission to build meaningful tech.”
-
-- 🎓 **CSE Undergrad** passionate about tech that makes lives better
-- 💡 Currently building **StoryBridge**: where storytelling meets AI
-- 🧠 I specialize in **ML**, **AI**, **Flask apps**, and **smart algorithms**
-- 🌱 Learning about **Recommender Systems**, **LLMs**, & **Generative AI**
-- 🏆 Hackathon Enthusiast & Constant Problem Solver
-
----
-
-### 💼 Featured Projects
-
-| 💡 Project Name | Description | Tech Stack |
-|----------------|-------------|------------|
-| 🌉 [StoryBridge](https://github.com/RhiyaBhat/StoryBridge) | AI-powered storytelling & recommendation platform | Flask · Python · ML |
-| 🎮 [MyAkinator](#) | A custom Akinator logic-based guessing game | Python · Logic |
-| 📚 [WEBML Recommender](#) | Hybrid content recommender for books/movies | Flask · Pandas · NLP |
-| 🧪 [Project Name](#) | Coming soon... | React · MongoDB · Express |
-
-> Want to collaborate? Let's make something awesome together! 🤝
-
----
-
-### ⚒️ Tech Stack & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,scikit-learn,tensorflow,html,css,js,react,nodejs,mysql,mongodb,git,github,vscode,figma" />
+  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="300" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+<h2 align="center">🧠 Turning Ideas Into AI-Powered Realities</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chin-may02&show_icons=true&theme=tokyonight&hide=issues" height="160px"/>
+---
+
+### 👨‍💻 About Me
+
+> A passionate **Computer Science undergrad** crafting impactful tools using **AI**, **cybersecurity**, and **web tech** — one repo at a time.
+
+- 🎓 Pursuing B.Tech in CSE with a deep focus on **AI** and **Cybersecurity**
+- 🤖 Passionate about **Machine Learning**, **NLP**, **Recommender Systems**, and **Ethical Hacking**
+- 🧠 Solved **68+ Python problems** on LeetCode with a **50-Day Streak Badge**
+- 🛠️ Strong in **Python**, **Flask**, and **WebML** integrations
+- 🌱 Currently exploring **LLMs**, **transformers**, and **fast backends with FastAPI**
+
+---
+
+### 🧩 LeetCode Stats
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LeetCode-68_Python_Solves-yellow?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/LeetCode-50_Day_Streak-blue?style=for-the-badge&logo=leetcode&logoColor=white" />
+</p>
+
+- 🔢 Problem Types Solved: Math (×36), Recursion (×8), Binary Search (×7), Dynamic Programming (×3), Divide & Conquer (×2)
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,flask,scikit-learn,tensorflow,html,css,js,react,git,github,vscode,postman,linux" />
+</p>
+
+---
+
+### 🚀 Featured Project
+
+| 🌉 [StoryBridge](https://github.com/RhiyaBhat/StoryBridge) |
+|------------------------------------------------------------|
+| An intelligent **cross-medium recommender** system blending AI and storytelling. Get suggestions based on your favorite books or movies!<br>📌 *Powered by Python, Flask, ML, and TF-IDF* |
+
+---
+
+### 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chin-may02&theme=tokyonight&show_icons=true&count_private=true&hide=issues" height="160px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chin-may02&layout=compact&theme=tokyonight" height="160px"/>
-</div>
+</p>
 
 ---
 
-### 🔗 Let's Connect!
+### 🌐 Connect With Me
 
 <p align="center">
   <a href="mailto:chinmayvuppu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/chinmay-vuppu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Chin-may02"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/vuppu-chinmay/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Chin-may02"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Chin-may02&label=Profile+Views&color=blue&style=flat" alt="Profile Views" />
-</p>
+### 🧭 Currently Exploring
 
-<p align="center">
-  <i>"The best way to predict the future is to invent it." – Alan Kay</i>
-</p>
+```diff
++ Recommender Systems using ML
++ NLP with Transformers
++ Cybersecurity Fundamentals & Tools
++ Backend APIs with FastAPI
