@@ -34,9 +34,25 @@
   - React.js, Tailwind CSS, Responsive Design
   - API Integration & Component Architecture
 
-🛠️ Other Tools & Frameworks:
-  - Python, Flask, FastAPI
-  - Git, GitHub, Postman, Firebase, VS Code, Linux
+🛠️ Programming Languages:
+  - Python, JavaScript, HTML5, CSS3, SQL, Bash
+
+🛠️ Frameworks & Libraries:
+  - React.js, Tailwind CSS, Flask, FastAPI, NumPy, Pandas, Scikit-learn
+
+🗄️ Databases:
+  - MySQL, Firebase, MongoDB (basic)
+
+🧰 Tools & Platforms:
+  - Git, GitHub, VS Code, Postman, Linux, Canva, Figma
+
+📚 Technical Concepts:
+  - Data Structures & Algorithms (DSA)
+  - Object-Oriented Programming (OOP)
+  - Operating Systems, DBMS, Computer Networks
+
+💬 Soft Skills:
+  - Communication, Teamwork, Leadership, Creativity, Adaptability
 ```
 
 ---
