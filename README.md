@@ -27,7 +27,7 @@
   - Artificial Intelligence & Machine Learning
   - Ethical Hacking & Cybersecurity Tools
   - Recommender Systems & Logic Engines
-  - Full-Stack Development (Frontend-Heavy)
+  - Full-Stack Development 
 
 🖌️ Frontend Mastery:
   - HTML5, CSS3, JavaScript (ES6+)
