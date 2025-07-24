@@ -54,6 +54,20 @@
 💬 Soft Skills:
   - Communication, Teamwork, Leadership, Creativity, Adaptability
 ```
+<h2 align="center">🛠️ Tech Stack & Tools</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,flask,fastapi,scikit-learn,tensorflow,git,github,postman,vscode,linux" />
+</p>
+
+---
+
+<h2 align="center">📈 GitHub Activity</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chin-may02&theme=tokyonight&show_icons=true&count_private=true&hide=issues" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chin-may02&layout=compact&theme=tokyonight" height="160px"/>
+</p>
 
 ---
 
@@ -130,23 +144,6 @@ A desktop voice assistant built with **speech-to-text**, **text-to-speech**, and
 > - 📉 Binary Search (×7)
 > - 💡 Dynamic Programming (×3)
 > - ⚔️ Divide & Conquer (×2)
-
----
-
-<h2 align="center">🛠️ Tech Stack & Tools</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,flask,fastapi,scikit-learn,tensorflow,git,github,postman,vscode,linux" />
-</p>
-
----
-
-<h2 align="center">📈 GitHub Activity</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chin-may02&theme=tokyonight&show_icons=true&count_private=true&hide=issues" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chin-may02&layout=compact&theme=tokyonight" height="160px"/>
-</p>
 
 ---
 
